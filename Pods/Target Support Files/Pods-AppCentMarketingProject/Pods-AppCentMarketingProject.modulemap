@@ -1,0 +1,6 @@
+framework module Pods_AppCentMarketingProject {
+  umbrella header "Pods-AppCentMarketingProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
